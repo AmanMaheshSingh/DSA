@@ -1,6 +1,5 @@
 //Leetcode : 350
 //Intersection of Two Arrays
-package Array;
 
 import java.util.Arrays;
 

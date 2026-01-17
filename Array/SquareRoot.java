@@ -1,6 +1,5 @@
 //LeetCode : 69
 //Sqrt(x)
-package Array;
 import java.util.*;
 
 public class SquareRoot {

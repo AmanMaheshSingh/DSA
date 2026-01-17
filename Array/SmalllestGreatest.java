@@ -1,6 +1,5 @@
 //Leetcode 774
 //Find Smallest Letter Greater Than Target.
-package Array;
 
 public class SmalllestGreatest {
     public static char nextGreatestLetter(char[] letters, char target) {

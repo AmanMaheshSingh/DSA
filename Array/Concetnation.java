@@ -1,6 +1,5 @@
 //Leetcode 1929
 //Concetnation of Array
-package Array;
 
 import java.util.Arrays;
 

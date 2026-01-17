@@ -1,6 +1,5 @@
 //Leetcode : 852
 //Peak Index in a Mountain Array
-package Array;
 
 public class PeakIndex {
     public static int peakIndexInMountainArray(int[] arr) {

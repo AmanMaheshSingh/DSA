@@ -1,6 +1,5 @@
 //Leetcode : 1539
 //Kth Missing Positive Number
-package Array;
 
 public class KthMissing {
     public static int findKthPositive(int[] arr, int k) {

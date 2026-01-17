@@ -1,6 +1,5 @@
 //Leetcode 1480
 //Running Sum of 1d Array
-package Array;
 
 import java.util.Arrays;
 import java.util.Scanner;
