@@ -1,3 +1,6 @@
+//Leetcode : 704
+//Binary Search
+
 public class BinarySearch {
     public static void main(String[] args){
         int nums[] = new int[]{1,3,5,6,9,12,24};
