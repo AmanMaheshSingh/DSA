@@ -15,4 +15,5 @@ public class PeakIndex {
     int[] arr={0,2,3,0};
     System.out.println(peakIndexInMountainArray(arr));
     }
+
 }
