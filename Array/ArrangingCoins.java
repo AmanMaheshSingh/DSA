@@ -2,7 +2,7 @@
 //Arranging Coins
 
 public class ArrangingCoins {
-    public static void main() {
+    public static void main(String[] args) {
         int n = 9;
         System.out.println(arrangeCoins(n));
     }
