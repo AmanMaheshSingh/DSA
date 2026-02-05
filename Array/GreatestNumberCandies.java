@@ -1,8 +1,7 @@
-//
-//
+//LeetCode : 1431
+//Kids With the Greatest Number of Candies
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Arrays;
 
 public class GreatestNumberCandies {
     public static void main(String[] args) {
